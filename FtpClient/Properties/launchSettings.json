@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FtpClient": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Project"
+    }
+  }
+}
